@@ -8,7 +8,7 @@
             "name": "git",
             "homepage": "https://git-scm.com/",
             "repo": "https://github.com/git/git",
-            "description": ""
+            "description": null
         },
         {
             "order": 1,
@@ -16,7 +16,7 @@
             "name": "Algorithms",
             "homepage": null,
             "repo": null,
-            "description": ""
+            "description": null
         },
         {
             "order": 2,
@@ -24,7 +24,7 @@
             "name": "HTTP/HTTPs Protocol",
             "homepage": null,
             "repo": null,
-            "description": ""
+            "description": null
         },
         {
             "order": 3,
@@ -32,7 +32,7 @@
             "name": "Design Patterns",
             "homepage": null,
             "repo": null,
-            "description": ""
+            "description": null
         },
         {
             "order": 4,
@@ -40,7 +40,7 @@
             "name": "Data Structures",
             "homepage": null,
             "repo": null,
-            "description": ""
+            "description": null
         }
     ]
 }

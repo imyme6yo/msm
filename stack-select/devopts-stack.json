@@ -9,7 +9,7 @@
                 "name": "Docker Swarm",
                 "homepage": null,
                 "repo": null,
-                "description": ""
+                "description": null
             },
             {
                 "id": "wO1BlGRWEWVgdHaREQCN",
@@ -17,7 +17,7 @@
                 "name": "Kubernates",
                 "homepage": null,
                 "repo": null,
-                "description": ""
+                "description": null
             },
             {
                 "id": "un8WIGPO3zxOftJ3kabD",
@@ -25,7 +25,7 @@
                 "name": "Mesos",
                 "homepage": null,
                 "repo": null,
-                "description": ""
+                "description": null
             },
             {
                 "id": "jcK2TyNWSAKBmptcd5hV",
@@ -33,7 +33,7 @@
                 "name": "Nomad",
                 "homepage": null,
                 "repo": null,
-                "description": ""
+                "description": null
             }
         ]
     },
@@ -47,7 +47,7 @@
                 "name": "Ansible",
                 "homepage": null,
                 "repo": null,
-                "description": ""
+                "description": null
             },
             {
                 "id": "lm2DVkv4sKAhQAiMDRAn",
@@ -55,7 +55,7 @@
                 "name": "Chef",
                 "homepage": null,
                 "repo": null,
-                "description": ""
+                "description": null
             },
             {
                 "id": "JmGhuMJDp0aXHwHG64aZ",
@@ -63,7 +63,7 @@
                 "name": "Salt",
                 "homepage": null,
                 "repo": null,
-                "description": ""
+                "description": null
             },
             {
                 "id": "CDpEE2NoTamPLkrYrSd7",
@@ -71,7 +71,7 @@
                 "name": "Puppet",
                 "homepage": null,
                 "repo": null,
-                "description": ""
+                "description": null
             },
             {
                 "id": "dSWwdcw4rUH7BWcHE3uL",
@@ -79,7 +79,7 @@
                 "name": "Terraform",
                 "homepage": null,
                 "repo": null,
-                "description": ""
+                "description": null
             },
             {
                 "id": "zl3Mq0OuWQ2jAp46VKTb",
@@ -87,7 +87,7 @@
                 "name": "Cloud Formation",
                 "homepage": null,
                 "repo": null,
-                "description": ""
+                "description": null
             }
         ]
     },
@@ -101,7 +101,7 @@
                 "name": "ELK Stack",
                 "homepage": null,
                 "repo": null,
-                "description": ""
+                "description": null
             },
             {
                 "id": "KuwRb4XAF423F651YgAr",
@@ -109,7 +109,7 @@
                 "name": "Graylog",
                 "homepage": null,
                 "repo": null,
-                "description": ""
+                "description": null
             },
             {
                 "id": "RJoLHxv3iWiJo09hB25T",
@@ -117,7 +117,7 @@
                 "name": "Splunk",
                 "homepage": null,
                 "repo": null,
-                "description": ""
+                "description": null
             },
             {
                 "id": "XZjAkm6B3FsWgd3X468h",
@@ -125,7 +125,7 @@
                 "name": "Papertrail",
                 "homepage": null,
                 "repo": null,
-                "description": ""
+                "description": null
             }
         ] 
     },
@@ -139,7 +139,7 @@
                 "name": "Nagios",
                 "homepage": null,
                 "repo": null,
-                "description": ""
+                "description": null
             },
             {
                 "id": "voDe8z8ItXn0O9TcVLLT",
@@ -147,7 +147,7 @@
                 "name": "Icinga",
                 "homepage": null,
                 "repo": null,
-                "description": ""
+                "description": null
             },
             {
                 "id": "L4cT9gJmVF1SbEOP6Tqp",
@@ -155,7 +155,7 @@
                 "name": "Datado",
                 "homepage": null,
                 "repo": null,
-                "description": ""
+                "description": null
             },
             {
                 "id": "iSzvbCJ0mbysnGd7bOA4",
@@ -163,7 +163,7 @@
                 "name": "Zabbix",
                 "homepage": null,
                 "repo": null,
-                "description": ""
+                "description": null
             },
             {
                 "id": "q6ZuY5vfrH4Agp9BfHkS",
@@ -171,7 +171,7 @@
                 "name": "Monit",
                 "homepage": null,
                 "repo": null,
-                "description": ""
+                "description": null
             },
             {
                 "id": "hfJBaJALZfIkz8RF0BGB",
@@ -179,7 +179,7 @@
                 "name": "AppDynamics",
                 "homepage": null,
                 "repo": null,
-                "description": ""
+                "description": null
             },
             {
                 "id": "SMtBZlZFFDM6cTHu6EZK",
@@ -187,7 +187,7 @@
                 "name": "New Relic",
                 "homepage": null,
                 "repo": null,
-                "description": ""
+                "description": null
             }
         ]
     },
@@ -201,7 +201,7 @@
                 "name": "Jenkins",
                 "homepage": null,
                 "repo": null,
-                "description": ""
+                "description": null
             },
             {
                 "id": "7g7jjNwnqbsYvgZPohN5",
@@ -209,7 +209,7 @@
                 "name": "TravisCI",
                 "homepage": null,
                 "repo": null,
-                "description": ""
+                "description": null
             },
             {
                 "id": "4qJk9qU25jB3nVUxBp3x",
@@ -217,7 +217,7 @@
                 "name": "Team City",
                 "homepage": null,
                 "repo": null,
-                "description": ""
+                "description": null
             },
             {
                 "id": "xQyHvOeChkaKnee5Qjls",
@@ -225,7 +225,7 @@
                 "name": "Drone",
                 "homepage": null,
                 "repo": null,
-                "description": ""
+                "description": null
             },
             {
                 "id": "PEbaaDEyHS7q5wRJgtAp",
@@ -233,7 +233,7 @@
                 "name": "CircleCI",
                 "homepage": null,
                 "repo": null,
-                "description": ""
+                "description": null
             }
         ]
     },
@@ -247,7 +247,7 @@
                 "name": "Amazon Web Service",
                 "homepage": null,
                 "repo": null,
-                "description": ""
+                "description": null
             },
             {
                 "id": "DuPJKOBjCXuLBB7Q5k9c",
@@ -255,7 +255,7 @@
                 "name": "Google App Engine",
                 "homepage": null,
                 "repo": null,
-                "description": ""
+                "description": null
             },
             {
                 "id": "U8TYxnyKkxIBTPeAVMht",
@@ -263,7 +263,7 @@
                 "name": "Microsoft Azure",
                 "homepage": null,
                 "repo": null,
-                "description": ""
+                "description": null
             },
             {
                 "id": "dlGRsp7jwvqcOBktWl2x",
@@ -271,7 +271,7 @@
                 "name": "Digital Ocean",
                 "homepage": null,
                 "repo": null,
-                "description": ""
+                "description": null
             },
             {
                 "id": "1AZK0RSURWj3Gt9Rah0O",
@@ -279,7 +279,7 @@
                 "name": "Heroku",
                 "homepage": null,
                 "repo": null,
-                "description": ""
+                "description": null
             }
         ]
     }
