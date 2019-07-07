@@ -1,46 +1,48 @@
-{
-    "name": "COMMONS",
-    "order": 0,
-    "children": [
-        {
-            "order": 0,
-            "id": "heR8rqxrm546gidJOExD",
-            "name": "git",
-            "homepage": "https://git-scm.com/",
-            "repo": "https://github.com/git/git",
-            "description": ""
-        },
-        {
-            "order": 1,
-            "id": "aSNX1e9CC4G8Et4lzCFS",
-            "name": "Algorithms",
-            "homepage": "",
-            "repo": "",
-            "description": ""
-        },
-        {
-            "order": 2,
-            "id": "2yoOqHOLAZTMQXaTN4VI",
-            "name": "HTTP/HTTPs Protocol",
-            "homepage": "",
-            "repo": "",
-            "description": ""
-        },
-        {
-            "order": 3,
-            "id": "xvIYP2mXbLCVi5MNZDAV",
-            "name": "Design Patterns",
-            "homepage": "",
-            "repo": "",
-            "description": ""
-        },
-        {
-            "order": 4,
-            "id": "c5UVqqcKgW9YWEkj1AvN",
-            "name": "Data Structures",
-            "homepage": "",
-            "repo": "",
-            "description": ""
-        }
-    ]
-}
+[
+    {
+        "name": "COMMONS",
+        "order": 0,
+        "children": [
+            {
+                "order": 0,
+                "id": "heR8rqxrm546gidJOExD",
+                "name": "git",
+                "homepage": "https://git-scm.com/",
+                "repo": "https://github.com/git/git",
+                "description": ""
+            },
+            {
+                "order": 1,
+                "id": "aSNX1e9CC4G8Et4lzCFS",
+                "name": "Algorithms",
+                "homepage": "",
+                "repo": "",
+                "description": ""
+            },
+            {
+                "order": 2,
+                "id": "2yoOqHOLAZTMQXaTN4VI",
+                "name": "HTTP/HTTPs Protocol",
+                "homepage": "",
+                "repo": "",
+                "description": ""
+            },
+            {
+                "order": 3,
+                "id": "xvIYP2mXbLCVi5MNZDAV",
+                "name": "Design Patterns",
+                "homepage": "",
+                "repo": "",
+                "description": ""
+            },
+            {
+                "order": 4,
+                "id": "c5UVqqcKgW9YWEkj1AvN",
+                "name": "Data Structures",
+                "homepage": "",
+                "repo": "",
+                "description": ""
+            }
+        ]
+    }
+]
