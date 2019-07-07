@@ -7,73 +7,73 @@
                 "id": "lqZ8CVigF6SOm8zxuF6q",
                 "order": 0,
                 "name": "Operating System",
-                "homepage": null,
-                "repo": null,
-                "description": null
+                "homepage": "",
+                "repo": "",
+                "description": ""
             },
             {
                 "id": "uV1ceq13hV015Bsat6ij",
                 "order": 1,
                 "name": "Linux",
-                "homepage": null,
-                "repo": null,
-                "description": null
+                "homepage": "",
+                "repo": "",
+                "description": ""
             },
             {
                 "id": "0QTKYvPRAJF4sm9rJNRv",
                 "order": 2,
                 "name": "Window Server",
-                "homepage": null,
-                "repo": null,
-                "description": null
+                "homepage": "",
+                "repo": "",
+                "description": ""
             },
             {
                 "id": "yyO7MYirYg2GCrbXen9w",
                 "order": 3,
                 "name": "Network",
-                "homepage": null,
-                "repo": null,
-                "description": null
+                "homepage": "",
+                "repo": "",
+                "description": ""
             },
             {
                 "id": "7AZ3QNwOhWFbqMnGkFPX",
                 "order": 4,
                 "name": "Shell Script",
-                "homepage": null,
-                "repo": null,
-                "description": null
+                "homepage": "",
+                "repo": "",
+                "description": ""
             },
             {
                 "id": "",
                 "order": 5,
                 "name": "RESTful API",
-                "homepage": null,
-                "repo": null,
-                "description": null
+                "homepage": "",
+                "repo": "",
+                "description": ""
             },
             {
                 "id": "",
                 "order": 6,
                 "name": "Docker",
-                "homepage": null,
-                "repo": null,
-                "description": null
+                "homepage": "",
+                "repo": "",
+                "description": ""
             },
             {
                 "id": "",
                 "order": 7,
                 "name": "GraphQL",
-                "homepage": null,
-                "repo": null,
-                "description": null
+                "homepage": "",
+                "repo": "",
+                "description": ""
             },
             {
                 "id": "",
                 "order": 7,
                 "name": "Web Socket",
-                "homepage": null,
-                "repo": null,
-                "description": null
+                "homepage": "",
+                "repo": "",
+                "description": ""
             }
         ]
     },
@@ -85,113 +85,113 @@
                 "id": "GqtodmVgeqfsLMvlSITM",
                 "order": 0,
                 "name": "Python",
-                "homepage": null,
-                "repo": null,
-                "description": null
+                "homepage": "",
+                "repo": "",
+                "description": ""
             },
             {
                 "id": "0lrNCM2RuAyy1ohRLc3T",
                 "order": 1,
                 "name": "Ruby",
-                "homepage": null,
-                "repo": null,
-                "description": null
+                "homepage": "",
+                "repo": "",
+                "description": ""
             },
             {
                 "id": "VgfGudbGGalUSwNBeR7l",
                 "order": 2,
                 "name": "Node",
-                "homepage": null,
-                "repo": null,
-                "description": null
+                "homepage": "",
+                "repo": "",
+                "description": ""
             },
             {
                 "id": "hslfwtUp0365FIYSCLXN",
                 "order": 3,
                 "name": "Go",
-                "homepage": null,
-                "repo": null,
-                "description": null
+                "homepage": "",
+                "repo": "",
+                "description": ""
             },
             {
                 "id": "eQX9k3XIEiOuxGCyZq0w",
                 "order": 4,
                 "name": "JAVA",
-                "homepage": null,
-                "repo": null,
-                "description": null
+                "homepage": "",
+                "repo": "",
+                "description": ""
             },
             {
                 "id": "hehKiurImG076A3XAF3r",
                 "order": 5,
                 "name": "Rust",
-                "homepage": null,
-                "repo": null,
-                "description": null
+                "homepage": "",
+                "repo": "",
+                "description": ""
             },
             {
                 "id": "xkojiXTsTuxwZo2ZVYWE",
                 "order": 6,
                 "name": "C/C++",
-                "homepage": null,
-                "repo": null,
-                "description": null
+                "homepage": "",
+                "repo": "",
+                "description": ""
             },
             {
                 "id": "2RpKVbGjxEfIx2wesNUw",
                 "order": 7,
                 "name": "Elixir",
-                "homepage": null,
-                "repo": null,
-                "description": null
+                "homepage": "",
+                "repo": "",
+                "description": ""
             },
             {
                 "id": "UnTpYQdpPSvu06cO5YZf",
                 "order": 8,
                 "name": "Scala",
-                "homepage": null,
-                "repo": null,
-                "description": null
+                "homepage": "",
+                "repo": "",
+                "description": ""
             },
             {
                 "id": "iUlzDsucCRQyuYH29E6m",
                 "order": 9,
                 "name": "Erlang",
-                "homepage": null,
-                "repo": null,
-                "description": null
+                "homepage": "",
+                "repo": "",
+                "description": ""
             },
             {
                 "id": "aBdpLKYndj9FRsFl7hrX",
                 "order": 10,
                 "name": "Clojure",
-                "homepage": null,
-                "repo": null,
-                "description": null
+                "homepage": "",
+                "repo": "",
+                "description": ""
             },
             {
                 "id": "60nT1jUT2hubI6aDjkuG",
                 "order": 11,
                 "name": "Haskell",
-                "homepage": null,
-                "repo": null,
-                "description": null
+                "homepage": "",
+                "repo": "",
+                "description": ""
             },
             {
                 "id": "ZMvgTGxEezbFC8JgnkEi",
                 "order": 12,
                 "name": ".NET",
-                "homepage": null,
-                "repo": null,
-                "description": null
+                "homepage": "",
+                "repo": "",
+                "description": ""
             },
             {
                 "id": "WMzsmlGVM4THqgQkxDFp",
                 "order": 13,
                 "name": "PHP",
-                "homepage": null,
-                "repo": null,
-                "description": null
+                "homepage": "",
+                "repo": "",
+                "description": ""
             }
         ]
     },
@@ -203,41 +203,41 @@
                 "id": "6csGLQvCMp8XU4I4wLTl",
                 "order": 0,
                 "name": "Oracle",
-                "homepage": null,
-                "repo": null,
-                "description": null
+                "homepage": "",
+                "repo": "",
+                "description": ""
             },
             {
                 "id": "b0h2wQTWrTWnzqrskR3y",
                 "order": 1,
                 "name": "MySQL",
-                "homepage": null,
-                "repo": null,
-                "description": null
+                "homepage": "",
+                "repo": "",
+                "description": ""
             },
             {
                 "id": "i5d7UGjLvQ0noJJH6VQ1",
                 "order": 2,
                 "name": "MariaDB",
-                "homepage": null,
-                "repo": null,
-                "description": null
+                "homepage": "",
+                "repo": "",
+                "description": ""
             },
             {
                 "id": "r3c8Qez5rVYblFkiZzC3",
                 "order": 3,
                 "name": "PostgreSQL",
-                "homepage": null,
-                "repo": null,
-                "description": null
+                "homepage": "",
+                "repo": "",
+                "description": ""
             },
             {
                 "id": "sfxAbPKABDJwEZHw01Me",
                 "order": 4,
                 "name": "MSSQL",
-                "homepage": null,
-                "repo": null,
-                "description": null
+                "homepage": "",
+                "repo": "",
+                "description": ""
             }
         ]
     },
@@ -249,41 +249,41 @@
                 "id": "CzYQUyfEFXJvXOBw39Vz",
                 "order": 0,
                 "name": "MongoDB",
-                "homepage": null,
-                "repo": null,
-                "description": null
+                "homepage": "",
+                "repo": "",
+                "description": ""
             },
             {
                 "id": "sEsdq9sE9KKWEQPWGLps",
                 "order": 1,
                 "name": "RethinkDB",
-                "homepage": null,
-                "repo": null,
-                "description": null
+                "homepage": "",
+                "repo": "",
+                "description": ""
             },
             {
                 "id": "zF7ugBp0AurY5Ye9rK6N",
                 "order": 2,
                 "name": "Cassandra",
-                "homepage": null,
-                "repo": null,
-                "description": null
+                "homepage": "",
+                "repo": "",
+                "description": ""
             },
             {
                 "id": "y3xeeKL2DWd2Y0c9CaLj",
                 "order": 3,
                 "name": "Couchbase",
-                "homepage": null,
-                "repo": null,
-                "description": null
+                "homepage": "",
+                "repo": "",
+                "description": ""
             },
             {
                 "id": "K9mD9J8gLHUJ2ExUCAnb",
                 "order": 4,
                 "name": "PouchDB",
-                "homepage": null,
-                "repo": null,
-                "description": null
+                "homepage": "",
+                "repo": "",
+                "description": ""
             }
         ] 
     },
@@ -295,17 +295,17 @@
                 "id": "3lLuVxTLbxaAU0ZXlr5T",
                 "order": 0,
                 "name": "JavaScript",
-                "homepage": null,
-                "repo": null,
-                "description": null
+                "homepage": "",
+                "repo": "",
+                "description": ""
             },
             {
                 "id": "mK7gBTjiqY4U2peB1ggj",
                 "order": 1,
                 "name": "TypeScript",
-                "homepage": null,
-                "repo": null,
-                "description": null
+                "homepage": "",
+                "repo": "",
+                "description": ""
             }
         ]
     },
@@ -317,17 +317,17 @@
                 "id": "5dj836KCMLhBSTtEP0Pu",
                 "order": 0,
                 "name": "Memcached",
-                "homepage": null,
-                "repo": null,
-                "description": null
+                "homepage": "",
+                "repo": "",
+                "description": ""
             },
             {
                 "id": "N6rSiNFo674bcyi9hUuE",
                 "order": 1,
                 "name": "Redis",
-                "homepage": null,
-                "repo": null,
-                "description": null
+                "homepage": "",
+                "repo": "",
+                "description": ""
             }
         ]
     },
@@ -339,17 +339,17 @@
                 "id": "mDwYiXakMaGkhrzD7f5n",
                 "order": 0,
                 "name": "RabbitMQ",
-                "homepage": null,
-                "repo": null,
-                "description": null
+                "homepage": "",
+                "repo": "",
+                "description": ""
             },
             {
                 "id": "2HLBmAvxDZNXO3S6OfBb",
                 "order": 1,
                 "name": "Kafka",
-                "homepage": null,
-                "repo": null,
-                "description": null
+                "homepage": "",
+                "repo": "",
+                "description": ""
             }
         ]
     },
@@ -361,25 +361,25 @@
                 "id": "nFzEUjgiCZzpQsyjCXtR",
                 "order": 0,
                 "name": "Elastic Search",
-                "homepage": null,
-                "repo": null,
-                "description": null
+                "homepage": "",
+                "repo": "",
+                "description": ""
             },
             {
                 "id": "eL0bP026w90ZqYRluWuE",
                 "order": 1,
                 "name": "Solr",
-                "homepage": null,
-                "repo": null,
-                "description": null
+                "homepage": "",
+                "repo": "",
+                "description": ""
             },
             {
                 "id": "hbt2gWcmSoLYA2e2DCXC",
                 "order": 1,
                 "name": "Sphinx",
-                "homepage": null,
-                "repo": null,
-                "description": null
+                "homepage": "",
+                "repo": "",
+                "description": ""
             }
         ]
     },
@@ -391,25 +391,25 @@
                 "id": "FEp0C0NICZdfM5ipFOzd",
                 "order": 0,
                 "name": "OAuth",
-                "homepage": null,
-                "repo": null,
-                "description": null
+                "homepage": "",
+                "repo": "",
+                "description": ""
             },
             {
                 "id": "h9XzO32RyF7urxYEdVyY",
                 "order": 1,
                 "name": "JWT",
-                "homepage": null,
-                "repo": null,
-                "description": null
+                "homepage": "",
+                "repo": "",
+                "description": ""
             },
             {
                 "id": "fqsBqmbAgjgCAshrOhZq",
                 "order": 2,
                 "name": "OpenID",
-                "homepage": null,
-                "repo": null,
-                "description": null
+                "homepage": "",
+                "repo": "",
+                "description": ""
             }
         ]
     },
@@ -421,33 +421,33 @@
                 "id": "EZBeSW0O5qghhmAuxbgd",
                 "order": 0,
                 "name": "Laravel",
-                "homepage": null,
-                "repo": null,
-                "description": null
+                "homepage": "",
+                "repo": "",
+                "description": ""
             },
             {
                 "id": "5otigEyo88yf6WuUruCC",
                 "order": 1,
                 "name": "Symfony",
-                "homepage": null,
-                "repo": null,
-                "description": null
+                "homepage": "",
+                "repo": "",
+                "description": ""
             },
             {
                 "id": "JUDSrcSdJ6L2NVt6r9n6",
                 "order": 2,
                 "name": "Express",
-                "homepage": null,
-                "repo": null,
-                "description": null
+                "homepage": "",
+                "repo": "",
+                "description": ""
             },
             {
                 "id": "EmBNx9TUh8zRBwZOOazm",
                 "order": 2,
                 "name": "Django",
-                "homepage": null,
-                "repo": null,
-                "description": null
+                "homepage": "",
+                "repo": "",
+                "description": ""
             }
         ]
     },
@@ -459,41 +459,41 @@
                 "id": "AjxDkmaE1L1Z2y3IVxCr",
                 "order": 0,
                 "name": "IIS",
-                "homepage": null,
-                "repo": null,
-                "description": null
+                "homepage": "",
+                "repo": "",
+                "description": ""
             },
             {
                 "id": "HaJ1inBozEOY7VvJg78g",
                 "order": 1,
                 "name": "Apache",
-                "homepage": null,
-                "repo": null,
-                "description": null
+                "homepage": "",
+                "repo": "",
+                "description": ""
             },
             {
                 "id": "zaDjVSR9b88yopFZuvyy",
                 "order": 2,
                 "name": "Nginx",
-                "homepage": null,
-                "repo": null,
-                "description": null
+                "homepage": "",
+                "repo": "",
+                "description": ""
             },
             {
                 "id": "FC63T3wQjpIuHowHNDes",
                 "order": 3,
                 "name": "Tomcat",
-                "homepage": null,
-                "repo": null,
-                "description": null
+                "homepage": "",
+                "repo": "",
+                "description": ""
             },
             {
                 "id": "70W8ghAmPfjOiP0UX3YF",
                 "order": 4,
                 "name": "Caddy",
-                "homepage": null,
-                "repo": null,
-                "description": null
+                "homepage": "",
+                "repo": "",
+                "description": ""
             }
         ]
     }
