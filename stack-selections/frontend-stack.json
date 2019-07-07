@@ -1,0 +1,508 @@
+[
+    {
+        "name": "Basic",
+        "order": 0,
+        "children": [
+            {
+                "id": "Hce0t9xy4zg29h5bPDQF",
+                "order": 0,
+                "name": "HTML",
+                "url": null,
+                "repo": null,
+                "description": ""
+            }
+        ]
+    },
+    {
+        "name": "CSS",
+        "order": 1,
+        "children":[
+            {
+                "id": "a3MOkvX9ZX1jJYCiNjPZ",
+                "order": 0,
+                "name": "CSS3",
+                "url": null,
+                "repo": null,
+                "description": ""
+            },
+            {
+                "id": "n5gDZ91kxyVPpunMPUf1",
+                "order": 1,
+                "name": "SASS",
+                "url": null,
+                "repo": null,
+                "description": ""
+            },
+            {
+                "id": "Zq5SpYmAXXubsmtpQPu0",
+                "order": 2,
+                "name": "PostCSS",
+                "url": null,
+                "repo": null,
+                "description": ""
+            },
+            {
+                "id": "l0ThoCDbuMWr115hZl2U",
+                "order": 3,
+                "name": "LESS",
+                "url": null,
+                "repo": null,
+                "description": ""
+            }
+        ]
+    },
+    {
+        "name": "CSS Framework",
+        "order": 2,
+        "children": [
+            {
+                "id": "TPAt4rIkakfhX0mvw1Lh",
+                "order": 0,
+                "name": "Bootstrap",
+                "url": null,
+                "repo": null,
+                "description": ""
+            }
+        ]
+    },
+    {
+        "name": "CSS Architecture",
+        "order": 3,
+        "children": [
+            {
+                "id": "mNNBPebHhIYhCZNwM81u",
+                "order": 0,
+                "name": "BEM",
+                "url": null,
+                "repo": null,
+                "description": ""
+            },
+            {
+                "id": "cJWziVBn0i65cl0Wt8eU",
+                "order": 1,
+                "name": "OOCSS",
+                "url": null,
+                "repo": null,
+                "description": ""
+            },
+            {
+                "id": "ZaeI022TDolvcFfeGyNY",
+                "order": 2,
+                "name": "SMACSS",
+                "url": null,
+                "repo": null,
+                "description": ""
+            }
+        ] 
+    },
+    {
+        "name": "Script Language",
+        "order": 4,
+        "children": [
+            {
+                "id": "3lLuVxTLbxaAU0ZXlr5T",
+                "order": 0,
+                "name": "JavaScript",
+                "url": null,
+                "repo": null,
+                "description": ""
+            },
+            {
+                "id": "mK7gBTjiqY4U2peB1ggj",
+                "order": 1,
+                "name": "TypeScript",
+                "url": null,
+                "repo": null,
+                "description": ""
+            },
+            {
+                "id": "G3jeVVx2OYFfNLC2sUfp",
+                "order": 2,
+                "name": "Dart",
+                "url": null,
+                "repo": null,
+                "description": ""
+            },
+            {
+                "id": "czn4qs7t5c0Qsk6R8CRe",
+                "order": 3,
+                "name": "CoffeeScript",
+                "url": null,
+                "repo": null,
+                "description": ""
+            },
+            {
+                "id": "xrlkCeh3oQ1g2jhuNEEY",
+                "order": 4,
+                "name": "WASM",
+                "url": null,
+                "repo": null,
+                "description": ""
+            }
+        ]
+    },
+    {
+        "name": "Package Management",
+        "order": 5,
+        "children": [
+            {
+                "id": "71HGu7FDP0v1Gw5EYNTq",
+                "order": 0,
+                "name": "NPM",
+                "url": null,
+                "repo": null,
+                "description": ""
+            },
+            {
+                "id": "mcHQmfYZKS70BtDpHMvw",
+                "order": 1,
+                "name": "Yarn",
+                "url": null,
+                "repo": null,
+                "description": ""
+            }
+        ]
+    },
+    {
+        "name": "Module Bundler",
+        "order": 6,
+        "children": [
+            {
+                "id": "ze69d5tOItY41moSiF1k",
+                "order": 0,
+                "name": "Webpack",
+                "url": null,
+                "repo": null,
+                "description": ""
+            },
+            {
+                "id": "O8Zpu3NnateRJ1LMzuYu",
+                "order": 1,
+                "name": "Parcel",
+                "url": null,
+                "repo": null,
+                "description": ""
+            },
+            {
+                "id": "wti6Ax560MqdF9ZfJldz",
+                "order": 2,
+                "name": "Rollup",
+                "url": null,
+                "repo": null,
+                "description": ""
+            }
+        ]
+    },
+    {
+        "name": "Task Runner",
+        "order": 7,
+        "children": [
+            {
+                "id": "5jdgYElH3SfODQ0ZtTJA",
+                "order": 0,
+                "name": "NPM Scripts",
+                "url": null,
+                "repo": null,
+                "description": ""
+            },
+            {
+                "id": "jtXnSbAaCbh2LR45fEBh",
+                "order": 1,
+                "name": "Gulp",
+                "url": null,
+                "repo": null,
+                "description": ""
+            }
+        ]
+    },
+    {
+        "name": "Linter / Formatter",
+        "order": 8,
+        "children": [
+            {
+                "id": "gRJKlcnueoTFMnJ9nP35",
+                "order": 0,
+                "name": "Prettier",
+                "url": null,
+                "repo": null,
+                "description": ""
+            },
+            {
+                "id": "iK2OnuXT17jZUygh4NZU",
+                "order": 1,
+                "name": "ESLint",
+                "url": null,
+                "repo": null,
+                "description": ""
+            },
+            {
+                "id": "BThXINM1dXxHH6Q7FXpV",
+                "order": 2,
+                "name": "JSHint",
+                "url": null,
+                "repo": null,
+                "description": ""
+            },
+            {
+                "id": "8LyOrwKQc2BCmIKArSb8",
+                "order": 3,
+                "name": "JSLint",
+                "url": null,
+                "repo": null,
+                "description": ""
+            },
+            {
+                "id": "yZqcPsDt4ewlg8sCAclq",
+                "order": 4,
+                "name": "JSCS",
+                "url": null,
+                "repo": null,
+                "description": ""
+            }
+        ]
+    },
+    {
+        "name": "Framework",
+        "order": 9,
+        "children": [
+            {
+                "id": "7vuWlUeisUpS5mwb07ct",
+                "order": 0,
+                "name": "Angular",
+                "url": null,
+                "repo": null,
+                "description": ""
+            },
+            {
+                "id": "g3JiK517Q9Fsn5fb6mFm",
+                "order": 1,
+                "name": "Vue",
+                "url": null,
+                "repo": null,
+                "description": ""
+            },
+            {
+                "id": "IQZycdDOH9pVBzybsk9M",
+                "order": 2,
+                "name": "Meteor",
+                "url": null,
+                "repo": null,
+                "description": ""
+            }
+        ]
+    },
+    {
+        "name": "Library",
+        "order": 10,
+        "children": [
+            {
+                "id": "1PUl7cuaycKIaBZTmNPc",
+                "order": 0,
+                "name": "ReactJS",
+                "url": null,
+                "repo": null,
+                "description": ""
+            },
+            {
+                "id": "0Hnl7eI7gCCvKwGowvUq",
+                "order": 1,
+                "name": "Redux",
+                "url": null,
+                "repo": null,
+                "description": ""
+            },
+            {
+                "id": "7VnZzbwX5CPqejuysrOZ",
+                "order": 2,
+                "name": "MobX",
+                "url": null,
+                "repo": null,
+                "description": ""
+            },
+            {
+                "id": "DqBq57AVpEsN5yg3vwfj",
+                "order": 3,
+                "name": "RX",
+                "url": null,
+                "repo": null,
+                "description": ""
+            },
+            {
+                "id": "biPS5thtJXAApG9GNqdJ",
+                "order": 4,
+                "name": "ngrx",
+                "url": null,
+                "repo": null,
+                "description": ""
+            },
+            {
+                "id": "RDAhziWb5ZxvAj7LQECq",
+                "order": 5,
+                "name": "vuex",
+                "url": null,
+                "repo": null,
+                "description": ""
+            }
+        ]
+    },
+    {
+        "name": "Mobile",
+        "order": 11,
+        "children": [
+            {
+                "id": "hgrG2AbrbOHd1ivONNun",
+                "order": 0,
+                "name": "Ionic",
+                "url": null,
+                "repo": null,
+                "description": ""
+            },
+            {
+                "id": "R0Tj5Nvhmh0Gsd99Dv35",
+                "order": 1,
+                "name": "NativeScript",
+                "url": null,
+                "repo": null,
+                "description": ""
+            },
+            {
+                "id": "rKymbk6b9bhBlxxEO2Vq",
+                "order": 2,
+                "name": "ReactNative",
+                "url": null,
+                "repo": null,
+                "description": ""
+            }
+        ]
+    },
+    {
+        "name": "Server Side Rendering",
+        "order": 12,
+        "children": [
+            {
+                "id": "knkYsndyoPvVJCzp316s",
+                "order": 0,
+                "name": "NextJS",
+                "url": null,
+                "repo": null,
+                "description": ""
+            },
+            {
+                "id": "5E9mop78NgmgXjT4pNWn",
+                "order": 1,
+                "name": "AfterJS",
+                "url": null,
+                "repo": null,
+                "description": ""
+            },
+            {
+                "id": "NaJjIGcI0PwuwPuBdrMs",
+                "order": 2,
+                "name": "Universal",
+                "url": null,
+                "repo": null,
+                "description": ""
+            },
+            {
+                "id": "spIQXAZ5yKnqT26CDWIz",
+                "order": 3,
+                "name": "NuxtJS",
+                "url": null,
+                "repo": null,
+                "description": ""
+            }
+        ]
+    },
+    {
+        "name": "Static Site Generators",
+        "order": 13,
+        "children": [
+            {
+                "id": "sI1hxxk5gMi0Y9DFQODu",
+                "order": 0,
+                "name": "GatsbyJS",
+                "url": null,
+                "repo": null,
+                "description": ""
+            }
+        ]
+    },
+    {
+        "name": "Test",
+        "order": 14,
+        "children": [
+            {
+                "id": "dnghNeuJ1m0AhJnFxG42",
+                "order": 0,
+                "name": "Jest",
+                "url": null,
+                "repo": null,
+                "description": ""
+            },
+            {
+                "id": "VgtVvQu4IEGf0uvoHu9u",
+                "order": 1,
+                "name": "Enzyme",
+                "url": null,
+                "repo": null,
+                "description": ""
+            },
+            {
+                "id": "NKiitd9TkceZIXphU4MO",
+                "order": 2,
+                "name": "Cypress",
+                "url": null,
+                "repo": null,
+                "description": ""
+            },
+            {
+                "id": "5bxsZ92MagrXSeDfMCjO",
+                "order": 3,
+                "name": "Mocha",
+                "url": null,
+                "repo": null,
+                "description": ""
+            },
+            {
+                "id": "S54GpyzJz1KnD3RrrtlJ",
+                "order": 4,
+                "name": "Chai",
+                "url": null,
+                "repo": null,
+                "description": ""
+            },
+            {
+                "id": "ExTWQ740nn95yXXS7HGR",
+                "order": 5,
+                "name": "Ava",
+                "url": null,
+                "repo": null,
+                "description": ""
+            },
+            {
+                "id": "fJ6jcqK2cnCqX7w2Dh2f",
+                "order": 6,
+                "name": "Karma",
+                "url": null,
+                "repo": null,
+                "description": ""
+            },
+            {
+                "id": "m2Q3iw1FtJhezSHjAGsf",
+                "order": 7,
+                "name": "Jasmine",
+                "url": null,
+                "repo": null,
+                "description": ""
+            },
+            {
+                "id": "QU5xDtKS2B4HvsO1kDio",
+                "order": 8,
+                "name": "Protractor",
+                "url": null,
+                "repo": null,
+                "description": ""
+            }
+        ]
+    }
+]
