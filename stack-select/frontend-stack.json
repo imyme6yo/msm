@@ -7,7 +7,7 @@
                 "id": "Hce0t9xy4zg29h5bPDQF",
                 "order": 0,
                 "name": "HTML",
-                "url": null,
+                "homepage": null,
                 "repo": null,
                 "description": ""
             }
@@ -21,7 +21,7 @@
                 "id": "a3MOkvX9ZX1jJYCiNjPZ",
                 "order": 0,
                 "name": "CSS3",
-                "url": null,
+                "homepage": null,
                 "repo": null,
                 "description": ""
             },
@@ -29,7 +29,7 @@
                 "id": "n5gDZ91kxyVPpunMPUf1",
                 "order": 1,
                 "name": "SASS",
-                "url": null,
+                "homepage": null,
                 "repo": null,
                 "description": ""
             },
@@ -37,7 +37,7 @@
                 "id": "Zq5SpYmAXXubsmtpQPu0",
                 "order": 2,
                 "name": "PostCSS",
-                "url": null,
+                "homepage": null,
                 "repo": null,
                 "description": ""
             },
@@ -45,7 +45,7 @@
                 "id": "l0ThoCDbuMWr115hZl2U",
                 "order": 3,
                 "name": "LESS",
-                "url": null,
+                "homepage": null,
                 "repo": null,
                 "description": ""
             }
@@ -59,7 +59,7 @@
                 "id": "TPAt4rIkakfhX0mvw1Lh",
                 "order": 0,
                 "name": "Bootstrap",
-                "url": null,
+                "homepage": null,
                 "repo": null,
                 "description": ""
             }
@@ -73,7 +73,7 @@
                 "id": "mNNBPebHhIYhCZNwM81u",
                 "order": 0,
                 "name": "BEM",
-                "url": null,
+                "homepage": null,
                 "repo": null,
                 "description": ""
             },
@@ -81,7 +81,7 @@
                 "id": "cJWziVBn0i65cl0Wt8eU",
                 "order": 1,
                 "name": "OOCSS",
-                "url": null,
+                "homepage": null,
                 "repo": null,
                 "description": ""
             },
@@ -89,7 +89,7 @@
                 "id": "ZaeI022TDolvcFfeGyNY",
                 "order": 2,
                 "name": "SMACSS",
-                "url": null,
+                "homepage": null,
                 "repo": null,
                 "description": ""
             }
@@ -103,7 +103,7 @@
                 "id": "3lLuVxTLbxaAU0ZXlr5T",
                 "order": 0,
                 "name": "JavaScript",
-                "url": null,
+                "homepage": null,
                 "repo": null,
                 "description": ""
             },
@@ -111,7 +111,7 @@
                 "id": "mK7gBTjiqY4U2peB1ggj",
                 "order": 1,
                 "name": "TypeScript",
-                "url": null,
+                "homepage": null,
                 "repo": null,
                 "description": ""
             },
@@ -119,7 +119,7 @@
                 "id": "G3jeVVx2OYFfNLC2sUfp",
                 "order": 2,
                 "name": "Dart",
-                "url": null,
+                "homepage": null,
                 "repo": null,
                 "description": ""
             },
@@ -127,7 +127,7 @@
                 "id": "czn4qs7t5c0Qsk6R8CRe",
                 "order": 3,
                 "name": "CoffeeScript",
-                "url": null,
+                "homepage": null,
                 "repo": null,
                 "description": ""
             },
@@ -135,7 +135,7 @@
                 "id": "xrlkCeh3oQ1g2jhuNEEY",
                 "order": 4,
                 "name": "WASM",
-                "url": null,
+                "homepage": null,
                 "repo": null,
                 "description": ""
             }
@@ -149,7 +149,7 @@
                 "id": "71HGu7FDP0v1Gw5EYNTq",
                 "order": 0,
                 "name": "NPM",
-                "url": null,
+                "homepage": null,
                 "repo": null,
                 "description": ""
             },
@@ -157,7 +157,7 @@
                 "id": "mcHQmfYZKS70BtDpHMvw",
                 "order": 1,
                 "name": "Yarn",
-                "url": null,
+                "homepage": null,
                 "repo": null,
                 "description": ""
             }
@@ -171,7 +171,7 @@
                 "id": "ze69d5tOItY41moSiF1k",
                 "order": 0,
                 "name": "Webpack",
-                "url": null,
+                "homepage": null,
                 "repo": null,
                 "description": ""
             },
@@ -179,7 +179,7 @@
                 "id": "O8Zpu3NnateRJ1LMzuYu",
                 "order": 1,
                 "name": "Parcel",
-                "url": null,
+                "homepage": null,
                 "repo": null,
                 "description": ""
             },
@@ -187,7 +187,7 @@
                 "id": "wti6Ax560MqdF9ZfJldz",
                 "order": 2,
                 "name": "Rollup",
-                "url": null,
+                "homepage": null,
                 "repo": null,
                 "description": ""
             }
@@ -201,7 +201,7 @@
                 "id": "5jdgYElH3SfODQ0ZtTJA",
                 "order": 0,
                 "name": "NPM Scripts",
-                "url": null,
+                "homepage": null,
                 "repo": null,
                 "description": ""
             },
@@ -209,7 +209,7 @@
                 "id": "jtXnSbAaCbh2LR45fEBh",
                 "order": 1,
                 "name": "Gulp",
-                "url": null,
+                "homepage": null,
                 "repo": null,
                 "description": ""
             }
@@ -223,7 +223,7 @@
                 "id": "gRJKlcnueoTFMnJ9nP35",
                 "order": 0,
                 "name": "Prettier",
-                "url": null,
+                "homepage": null,
                 "repo": null,
                 "description": ""
             },
@@ -231,7 +231,7 @@
                 "id": "iK2OnuXT17jZUygh4NZU",
                 "order": 1,
                 "name": "ESLint",
-                "url": null,
+                "homepage": null,
                 "repo": null,
                 "description": ""
             },
@@ -239,7 +239,7 @@
                 "id": "BThXINM1dXxHH6Q7FXpV",
                 "order": 2,
                 "name": "JSHint",
-                "url": null,
+                "homepage": null,
                 "repo": null,
                 "description": ""
             },
@@ -247,7 +247,7 @@
                 "id": "8LyOrwKQc2BCmIKArSb8",
                 "order": 3,
                 "name": "JSLint",
-                "url": null,
+                "homepage": null,
                 "repo": null,
                 "description": ""
             },
@@ -255,7 +255,7 @@
                 "id": "yZqcPsDt4ewlg8sCAclq",
                 "order": 4,
                 "name": "JSCS",
-                "url": null,
+                "homepage": null,
                 "repo": null,
                 "description": ""
             }
@@ -269,7 +269,7 @@
                 "id": "7vuWlUeisUpS5mwb07ct",
                 "order": 0,
                 "name": "Angular",
-                "url": null,
+                "homepage": null,
                 "repo": null,
                 "description": ""
             },
@@ -277,7 +277,7 @@
                 "id": "g3JiK517Q9Fsn5fb6mFm",
                 "order": 1,
                 "name": "Vue",
-                "url": null,
+                "homepage": null,
                 "repo": null,
                 "description": ""
             },
@@ -285,7 +285,7 @@
                 "id": "IQZycdDOH9pVBzybsk9M",
                 "order": 2,
                 "name": "Meteor",
-                "url": null,
+                "homepage": null,
                 "repo": null,
                 "description": ""
             }
@@ -299,7 +299,7 @@
                 "id": "1PUl7cuaycKIaBZTmNPc",
                 "order": 0,
                 "name": "ReactJS",
-                "url": null,
+                "homepage": null,
                 "repo": null,
                 "description": ""
             },
@@ -307,7 +307,7 @@
                 "id": "0Hnl7eI7gCCvKwGowvUq",
                 "order": 1,
                 "name": "Redux",
-                "url": null,
+                "homepage": null,
                 "repo": null,
                 "description": ""
             },
@@ -315,7 +315,7 @@
                 "id": "7VnZzbwX5CPqejuysrOZ",
                 "order": 2,
                 "name": "MobX",
-                "url": null,
+                "homepage": null,
                 "repo": null,
                 "description": ""
             },
@@ -323,7 +323,7 @@
                 "id": "DqBq57AVpEsN5yg3vwfj",
                 "order": 3,
                 "name": "RX",
-                "url": null,
+                "homepage": null,
                 "repo": null,
                 "description": ""
             },
@@ -331,7 +331,7 @@
                 "id": "biPS5thtJXAApG9GNqdJ",
                 "order": 4,
                 "name": "ngrx",
-                "url": null,
+                "homepage": null,
                 "repo": null,
                 "description": ""
             },
@@ -339,7 +339,7 @@
                 "id": "RDAhziWb5ZxvAj7LQECq",
                 "order": 5,
                 "name": "vuex",
-                "url": null,
+                "homepage": null,
                 "repo": null,
                 "description": ""
             }
@@ -353,7 +353,7 @@
                 "id": "hgrG2AbrbOHd1ivONNun",
                 "order": 0,
                 "name": "Ionic",
-                "url": null,
+                "homepage": null,
                 "repo": null,
                 "description": ""
             },
@@ -361,7 +361,7 @@
                 "id": "R0Tj5Nvhmh0Gsd99Dv35",
                 "order": 1,
                 "name": "NativeScript",
-                "url": null,
+                "homepage": null,
                 "repo": null,
                 "description": ""
             },
@@ -369,7 +369,7 @@
                 "id": "rKymbk6b9bhBlxxEO2Vq",
                 "order": 2,
                 "name": "ReactNative",
-                "url": null,
+                "homepage": null,
                 "repo": null,
                 "description": ""
             }
@@ -383,7 +383,7 @@
                 "id": "knkYsndyoPvVJCzp316s",
                 "order": 0,
                 "name": "NextJS",
-                "url": null,
+                "homepage": null,
                 "repo": null,
                 "description": ""
             },
@@ -391,7 +391,7 @@
                 "id": "5E9mop78NgmgXjT4pNWn",
                 "order": 1,
                 "name": "AfterJS",
-                "url": null,
+                "homepage": null,
                 "repo": null,
                 "description": ""
             },
@@ -399,7 +399,7 @@
                 "id": "NaJjIGcI0PwuwPuBdrMs",
                 "order": 2,
                 "name": "Universal",
-                "url": null,
+                "homepage": null,
                 "repo": null,
                 "description": ""
             },
@@ -407,7 +407,7 @@
                 "id": "spIQXAZ5yKnqT26CDWIz",
                 "order": 3,
                 "name": "NuxtJS",
-                "url": null,
+                "homepage": null,
                 "repo": null,
                 "description": ""
             }
@@ -421,7 +421,7 @@
                 "id": "sI1hxxk5gMi0Y9DFQODu",
                 "order": 0,
                 "name": "GatsbyJS",
-                "url": null,
+                "homepage": null,
                 "repo": null,
                 "description": ""
             }
@@ -435,7 +435,7 @@
                 "id": "dnghNeuJ1m0AhJnFxG42",
                 "order": 0,
                 "name": "Jest",
-                "url": null,
+                "homepage": null,
                 "repo": null,
                 "description": ""
             },
@@ -443,7 +443,7 @@
                 "id": "VgtVvQu4IEGf0uvoHu9u",
                 "order": 1,
                 "name": "Enzyme",
-                "url": null,
+                "homepage": null,
                 "repo": null,
                 "description": ""
             },
@@ -451,7 +451,7 @@
                 "id": "NKiitd9TkceZIXphU4MO",
                 "order": 2,
                 "name": "Cypress",
-                "url": null,
+                "homepage": null,
                 "repo": null,
                 "description": ""
             },
@@ -459,7 +459,7 @@
                 "id": "5bxsZ92MagrXSeDfMCjO",
                 "order": 3,
                 "name": "Mocha",
-                "url": null,
+                "homepage": null,
                 "repo": null,
                 "description": ""
             },
@@ -467,7 +467,7 @@
                 "id": "S54GpyzJz1KnD3RrrtlJ",
                 "order": 4,
                 "name": "Chai",
-                "url": null,
+                "homepage": null,
                 "repo": null,
                 "description": ""
             },
@@ -475,7 +475,7 @@
                 "id": "ExTWQ740nn95yXXS7HGR",
                 "order": 5,
                 "name": "Ava",
-                "url": null,
+                "homepage": null,
                 "repo": null,
                 "description": ""
             },
@@ -483,7 +483,7 @@
                 "id": "fJ6jcqK2cnCqX7w2Dh2f",
                 "order": 6,
                 "name": "Karma",
-                "url": null,
+                "homepage": null,
                 "repo": null,
                 "description": ""
             },
@@ -491,7 +491,7 @@
                 "id": "m2Q3iw1FtJhezSHjAGsf",
                 "order": 7,
                 "name": "Jasmine",
-                "url": null,
+                "homepage": null,
                 "repo": null,
                 "description": ""
             },
@@ -499,7 +499,7 @@
                 "id": "QU5xDtKS2B4HvsO1kDio",
                 "order": 8,
                 "name": "Protractor",
-                "url": null,
+                "homepage": null,
                 "repo": null,
                 "description": ""
             }
