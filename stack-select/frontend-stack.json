@@ -7,9 +7,9 @@
                 "id": "Hce0t9xy4zg29h5bPDQF",
                 "order": 0,
                 "name": "HTML",
-                "homepage": null,
-                "repo": null,
-                "description": null
+                "homepage": "",
+                "repo": "",
+                "description": ""
             }
         ]
     },
@@ -21,33 +21,33 @@
                 "id": "a3MOkvX9ZX1jJYCiNjPZ",
                 "order": 0,
                 "name": "CSS3",
-                "homepage": null,
-                "repo": null,
-                "description": null
+                "homepage": "",
+                "repo": "",
+                "description": ""
             },
             {
                 "id": "n5gDZ91kxyVPpunMPUf1",
                 "order": 1,
                 "name": "SASS",
-                "homepage": null,
-                "repo": null,
-                "description": null
+                "homepage": "",
+                "repo": "",
+                "description": ""
             },
             {
                 "id": "Zq5SpYmAXXubsmtpQPu0",
                 "order": 2,
                 "name": "PostCSS",
-                "homepage": null,
-                "repo": null,
-                "description": null
+                "homepage": "",
+                "repo": "",
+                "description": ""
             },
             {
                 "id": "l0ThoCDbuMWr115hZl2U",
                 "order": 3,
                 "name": "LESS",
-                "homepage": null,
-                "repo": null,
-                "description": null
+                "homepage": "",
+                "repo": "",
+                "description": ""
             }
         ]
     },
@@ -59,9 +59,9 @@
                 "id": "TPAt4rIkakfhX0mvw1Lh",
                 "order": 0,
                 "name": "Bootstrap",
-                "homepage": null,
-                "repo": null,
-                "description": null
+                "homepage": "",
+                "repo": "",
+                "description": ""
             }
         ]
     },
@@ -73,25 +73,25 @@
                 "id": "mNNBPebHhIYhCZNwM81u",
                 "order": 0,
                 "name": "BEM",
-                "homepage": null,
-                "repo": null,
-                "description": null
+                "homepage": "",
+                "repo": "",
+                "description": ""
             },
             {
                 "id": "cJWziVBn0i65cl0Wt8eU",
                 "order": 1,
                 "name": "OOCSS",
-                "homepage": null,
-                "repo": null,
-                "description": null
+                "homepage": "",
+                "repo": "",
+                "description": ""
             },
             {
                 "id": "ZaeI022TDolvcFfeGyNY",
                 "order": 2,
                 "name": "SMACSS",
-                "homepage": null,
-                "repo": null,
-                "description": null
+                "homepage": "",
+                "repo": "",
+                "description": ""
             }
         ] 
     },
@@ -103,41 +103,41 @@
                 "id": "3lLuVxTLbxaAU0ZXlr5T",
                 "order": 0,
                 "name": "JavaScript",
-                "homepage": null,
-                "repo": null,
-                "description": null
+                "homepage": "",
+                "repo": "",
+                "description": ""
             },
             {
                 "id": "mK7gBTjiqY4U2peB1ggj",
                 "order": 1,
                 "name": "TypeScript",
-                "homepage": null,
-                "repo": null,
-                "description": null
+                "homepage": "",
+                "repo": "",
+                "description": ""
             },
             {
                 "id": "G3jeVVx2OYFfNLC2sUfp",
                 "order": 2,
                 "name": "Dart",
-                "homepage": null,
-                "repo": null,
-                "description": null
+                "homepage": "",
+                "repo": "",
+                "description": ""
             },
             {
                 "id": "czn4qs7t5c0Qsk6R8CRe",
                 "order": 3,
                 "name": "CoffeeScript",
-                "homepage": null,
-                "repo": null,
-                "description": null
+                "homepage": "",
+                "repo": "",
+                "description": ""
             },
             {
                 "id": "xrlkCeh3oQ1g2jhuNEEY",
                 "order": 4,
                 "name": "WASM",
-                "homepage": null,
-                "repo": null,
-                "description": null
+                "homepage": "",
+                "repo": "",
+                "description": ""
             }
         ]
     },
@@ -149,17 +149,17 @@
                 "id": "71HGu7FDP0v1Gw5EYNTq",
                 "order": 0,
                 "name": "NPM",
-                "homepage": null,
-                "repo": null,
-                "description": null
+                "homepage": "",
+                "repo": "",
+                "description": ""
             },
             {
                 "id": "mcHQmfYZKS70BtDpHMvw",
                 "order": 1,
                 "name": "Yarn",
-                "homepage": null,
-                "repo": null,
-                "description": null
+                "homepage": "",
+                "repo": "",
+                "description": ""
             }
         ]
     },
@@ -171,25 +171,25 @@
                 "id": "ze69d5tOItY41moSiF1k",
                 "order": 0,
                 "name": "Webpack",
-                "homepage": null,
-                "repo": null,
-                "description": null
+                "homepage": "",
+                "repo": "",
+                "description": ""
             },
             {
                 "id": "O8Zpu3NnateRJ1LMzuYu",
                 "order": 1,
                 "name": "Parcel",
-                "homepage": null,
-                "repo": null,
-                "description": null
+                "homepage": "",
+                "repo": "",
+                "description": ""
             },
             {
                 "id": "wti6Ax560MqdF9ZfJldz",
                 "order": 2,
                 "name": "Rollup",
-                "homepage": null,
-                "repo": null,
-                "description": null
+                "homepage": "",
+                "repo": "",
+                "description": ""
             }
         ]
     },
@@ -201,17 +201,17 @@
                 "id": "5jdgYElH3SfODQ0ZtTJA",
                 "order": 0,
                 "name": "NPM Scripts",
-                "homepage": null,
-                "repo": null,
-                "description": null
+                "homepage": "",
+                "repo": "",
+                "description": ""
             },
             {
                 "id": "jtXnSbAaCbh2LR45fEBh",
                 "order": 1,
                 "name": "Gulp",
-                "homepage": null,
-                "repo": null,
-                "description": null
+                "homepage": "",
+                "repo": "",
+                "description": ""
             }
         ]
     },
@@ -223,41 +223,41 @@
                 "id": "gRJKlcnueoTFMnJ9nP35",
                 "order": 0,
                 "name": "Prettier",
-                "homepage": null,
-                "repo": null,
-                "description": null
+                "homepage": "",
+                "repo": "",
+                "description": ""
             },
             {
                 "id": "iK2OnuXT17jZUygh4NZU",
                 "order": 1,
                 "name": "ESLint",
-                "homepage": null,
-                "repo": null,
-                "description": null
+                "homepage": "",
+                "repo": "",
+                "description": ""
             },
             {
                 "id": "BThXINM1dXxHH6Q7FXpV",
                 "order": 2,
                 "name": "JSHint",
-                "homepage": null,
-                "repo": null,
-                "description": null
+                "homepage": "",
+                "repo": "",
+                "description": ""
             },
             {
                 "id": "8LyOrwKQc2BCmIKArSb8",
                 "order": 3,
                 "name": "JSLint",
-                "homepage": null,
-                "repo": null,
-                "description": null
+                "homepage": "",
+                "repo": "",
+                "description": ""
             },
             {
                 "id": "yZqcPsDt4ewlg8sCAclq",
                 "order": 4,
                 "name": "JSCS",
-                "homepage": null,
-                "repo": null,
-                "description": null
+                "homepage": "",
+                "repo": "",
+                "description": ""
             }
         ]
     },
@@ -269,25 +269,25 @@
                 "id": "7vuWlUeisUpS5mwb07ct",
                 "order": 0,
                 "name": "Angular",
-                "homepage": null,
-                "repo": null,
-                "description": null
+                "homepage": "",
+                "repo": "",
+                "description": ""
             },
             {
                 "id": "g3JiK517Q9Fsn5fb6mFm",
                 "order": 1,
                 "name": "Vue",
-                "homepage": null,
-                "repo": null,
-                "description": null
+                "homepage": "",
+                "repo": "",
+                "description": ""
             },
             {
                 "id": "IQZycdDOH9pVBzybsk9M",
                 "order": 2,
                 "name": "Meteor",
-                "homepage": null,
-                "repo": null,
-                "description": null
+                "homepage": "",
+                "repo": "",
+                "description": ""
             }
         ]
     },
@@ -299,49 +299,49 @@
                 "id": "1PUl7cuaycKIaBZTmNPc",
                 "order": 0,
                 "name": "ReactJS",
-                "homepage": null,
-                "repo": null,
-                "description": null
+                "homepage": "",
+                "repo": "",
+                "description": ""
             },
             {
                 "id": "0Hnl7eI7gCCvKwGowvUq",
                 "order": 1,
                 "name": "Redux",
-                "homepage": null,
-                "repo": null,
-                "description": null
+                "homepage": "",
+                "repo": "",
+                "description": ""
             },
             {
                 "id": "7VnZzbwX5CPqejuysrOZ",
                 "order": 2,
                 "name": "MobX",
-                "homepage": null,
-                "repo": null,
-                "description": null
+                "homepage": "",
+                "repo": "",
+                "description": ""
             },
             {
                 "id": "DqBq57AVpEsN5yg3vwfj",
                 "order": 3,
                 "name": "RX",
-                "homepage": null,
-                "repo": null,
-                "description": null
+                "homepage": "",
+                "repo": "",
+                "description": ""
             },
             {
                 "id": "biPS5thtJXAApG9GNqdJ",
                 "order": 4,
                 "name": "ngrx",
-                "homepage": null,
-                "repo": null,
-                "description": null
+                "homepage": "",
+                "repo": "",
+                "description": ""
             },
             {
                 "id": "RDAhziWb5ZxvAj7LQECq",
                 "order": 5,
                 "name": "vuex",
-                "homepage": null,
-                "repo": null,
-                "description": null
+                "homepage": "",
+                "repo": "",
+                "description": ""
             }
         ]
     },
@@ -353,25 +353,25 @@
                 "id": "hgrG2AbrbOHd1ivONNun",
                 "order": 0,
                 "name": "Ionic",
-                "homepage": null,
-                "repo": null,
-                "description": null
+                "homepage": "",
+                "repo": "",
+                "description": ""
             },
             {
                 "id": "R0Tj5Nvhmh0Gsd99Dv35",
                 "order": 1,
                 "name": "NativeScript",
-                "homepage": null,
-                "repo": null,
-                "description": null
+                "homepage": "",
+                "repo": "",
+                "description": ""
             },
             {
                 "id": "rKymbk6b9bhBlxxEO2Vq",
                 "order": 2,
                 "name": "ReactNative",
-                "homepage": null,
-                "repo": null,
-                "description": null
+                "homepage": "",
+                "repo": "",
+                "description": ""
             }
         ]
     },
@@ -383,33 +383,33 @@
                 "id": "knkYsndyoPvVJCzp316s",
                 "order": 0,
                 "name": "NextJS",
-                "homepage": null,
-                "repo": null,
-                "description": null
+                "homepage": "",
+                "repo": "",
+                "description": ""
             },
             {
                 "id": "5E9mop78NgmgXjT4pNWn",
                 "order": 1,
                 "name": "AfterJS",
-                "homepage": null,
-                "repo": null,
-                "description": null
+                "homepage": "",
+                "repo": "",
+                "description": ""
             },
             {
                 "id": "NaJjIGcI0PwuwPuBdrMs",
                 "order": 2,
                 "name": "Universal",
-                "homepage": null,
-                "repo": null,
-                "description": null
+                "homepage": "",
+                "repo": "",
+                "description": ""
             },
             {
                 "id": "spIQXAZ5yKnqT26CDWIz",
                 "order": 3,
                 "name": "NuxtJS",
-                "homepage": null,
-                "repo": null,
-                "description": null
+                "homepage": "",
+                "repo": "",
+                "description": ""
             }
         ]
     },
@@ -421,9 +421,9 @@
                 "id": "sI1hxxk5gMi0Y9DFQODu",
                 "order": 0,
                 "name": "GatsbyJS",
-                "homepage": null,
-                "repo": null,
-                "description": null
+                "homepage": "",
+                "repo": "",
+                "description": ""
             }
         ]
     },
@@ -435,73 +435,73 @@
                 "id": "dnghNeuJ1m0AhJnFxG42",
                 "order": 0,
                 "name": "Jest",
-                "homepage": null,
-                "repo": null,
-                "description": null
+                "homepage": "",
+                "repo": "",
+                "description": ""
             },
             {
                 "id": "VgtVvQu4IEGf0uvoHu9u",
                 "order": 1,
                 "name": "Enzyme",
-                "homepage": null,
-                "repo": null,
-                "description": null
+                "homepage": "",
+                "repo": "",
+                "description": ""
             },
             {
                 "id": "NKiitd9TkceZIXphU4MO",
                 "order": 2,
                 "name": "Cypress",
-                "homepage": null,
-                "repo": null,
-                "description": null
+                "homepage": "",
+                "repo": "",
+                "description": ""
             },
             {
                 "id": "5bxsZ92MagrXSeDfMCjO",
                 "order": 3,
                 "name": "Mocha",
-                "homepage": null,
-                "repo": null,
-                "description": null
+                "homepage": "",
+                "repo": "",
+                "description": ""
             },
             {
                 "id": "S54GpyzJz1KnD3RrrtlJ",
                 "order": 4,
                 "name": "Chai",
-                "homepage": null,
-                "repo": null,
-                "description": null
+                "homepage": "",
+                "repo": "",
+                "description": ""
             },
             {
                 "id": "ExTWQ740nn95yXXS7HGR",
                 "order": 5,
                 "name": "Ava",
-                "homepage": null,
-                "repo": null,
-                "description": null
+                "homepage": "",
+                "repo": "",
+                "description": ""
             },
             {
                 "id": "fJ6jcqK2cnCqX7w2Dh2f",
                 "order": 6,
                 "name": "Karma",
-                "homepage": null,
-                "repo": null,
-                "description": null
+                "homepage": "",
+                "repo": "",
+                "description": ""
             },
             {
                 "id": "m2Q3iw1FtJhezSHjAGsf",
                 "order": 7,
                 "name": "Jasmine",
-                "homepage": null,
-                "repo": null,
-                "description": null
+                "homepage": "",
+                "repo": "",
+                "description": ""
             },
             {
                 "id": "QU5xDtKS2B4HvsO1kDio",
                 "order": 8,
                 "name": "Protractor",
-                "homepage": null,
-                "repo": null,
-                "description": null
+                "homepage": "",
+                "repo": "",
+                "description": ""
             }
         ]
     }

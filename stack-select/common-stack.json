@@ -8,39 +8,39 @@
             "name": "git",
             "homepage": "https://git-scm.com/",
             "repo": "https://github.com/git/git",
-            "description": null
+            "description": ""
         },
         {
             "order": 1,
             "id": "aSNX1e9CC4G8Et4lzCFS",
             "name": "Algorithms",
-            "homepage": null,
-            "repo": null,
-            "description": null
+            "homepage": "",
+            "repo": "",
+            "description": ""
         },
         {
             "order": 2,
             "id": "2yoOqHOLAZTMQXaTN4VI",
             "name": "HTTP/HTTPs Protocol",
-            "homepage": null,
-            "repo": null,
-            "description": null
+            "homepage": "",
+            "repo": "",
+            "description": ""
         },
         {
             "order": 3,
             "id": "xvIYP2mXbLCVi5MNZDAV",
             "name": "Design Patterns",
-            "homepage": null,
-            "repo": null,
-            "description": null
+            "homepage": "",
+            "repo": "",
+            "description": ""
         },
         {
             "order": 4,
             "id": "c5UVqqcKgW9YWEkj1AvN",
             "name": "Data Structures",
-            "homepage": null,
-            "repo": null,
-            "description": null
+            "homepage": "",
+            "repo": "",
+            "description": ""
         }
     ]
 }
